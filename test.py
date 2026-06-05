@@ -1,1 +1,3 @@
-print("hi2")
+def do():
+    print("do")
+do()
