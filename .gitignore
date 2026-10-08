@@ -1,0 +1,8 @@
+kalendar.py
+tets.py
+*.db
+*.json
+*.txt
+*.env
+venv/
+__pycache__/
